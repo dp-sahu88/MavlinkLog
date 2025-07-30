@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+plotly>=5.10.0
+pymavlink>=2.4.0
+sqlite3
+tempfile
+zipfile
+io
+logging
+pathlib
+typing
