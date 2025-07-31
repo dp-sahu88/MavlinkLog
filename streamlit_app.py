@@ -377,7 +377,7 @@ def main():
                     max_records = st.slider(
                         "Max records to plot:",
                         min_value=100,
-                        max_value=10000,
+                        max_value=20000,
                         value=5000,
                         step=500,
                         help="Limit records for better performance"
